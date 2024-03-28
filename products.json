@@ -1,0 +1,65 @@
+[
+    {
+        "name": "product1",
+        "price": 10000,
+        "feature": true,
+        "company": "agri1"
+    },
+    {
+        "name": "product2",
+        "price": 10000,
+        "company": "agri2"
+    },
+    {
+        "name": "product3",
+        "price": 10000,
+        "company": "agri1"
+    },
+    {
+        "name": "product4",
+        "price": 10000,
+        "company": "agri4"
+    },
+    {
+        "name": "product5",
+        "price": 10000,
+        "feature": true,
+        "company": "agri2"
+    },
+    {
+        "name": "product6",
+        "price": 10000,
+        "company": "agri3"
+    },
+    {
+        "name": "product7",
+        "price": 10000,
+        "company": "agri5"
+    },
+    {
+        "name": "product8",
+        "price": 10000,
+        "feature": true,
+        "company": "agri4"
+    },
+    {
+        "name": "product9",
+        "price": 10000,
+        "company": "agri5"
+    },
+    {
+        "name": "product10",
+        "price": 10000,
+        "company": "agri2"
+    },
+    {
+        "name": "product11",
+        "price": 10000,
+        "company": "agri3"
+    },
+    {
+        "name": "product12",
+        "price": 10000,
+        "company": "agri5"
+    }
+]

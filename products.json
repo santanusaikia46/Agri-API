@@ -1,65 +1,173 @@
 [
     {
-        "name": "product1",
-        "price": 10000,
-        "feature": true,
-        "company": "agri1"
+      "id": "thapaserialnoa",
+      "name": "WHEET",
+      "company": "apple",
+      "price": 6000000,
+      "colors": [
+        "#ff0000",
+        "#000000",
+        "#CDD0D0"
+      ],
+      "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+      "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+      "category": "mobile",
+      "featured": true
     },
     {
-        "name": "product2",
-        "price": 10000,
-        "company": "agri2"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product3",
-        "price": 10000,
-        "company": "agri1"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product4",
-        "price": 10000,
-        "company": "agri4"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "featured": true
     },
     {
-        "name": "product5",
-        "price": 10000,
-        "feature": true,
-        "company": "agri2"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product6",
-        "price": 10000,
-        "company": "agri3"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product7",
-        "price": 10000,
-        "company": "agri5"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product8",
-        "price": 10000,
-        "feature": true,
-        "company": "agri4"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product9",
-        "price": 10000,
-        "company": "agri5"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product10",
-        "price": 10000,
-        "company": "agri2"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product11",
-        "price": 10000,
-        "company": "agri3"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile"
     },
     {
-        "name": "product12",
-        "price": 10000,
-        "company": "agri5"
+        "id": "thapaserialnoa",
+        "name": "WHEET",
+        "company": "apple",
+        "price": 6000000,
+        "colors": [
+          "#ff0000",
+          "#000000",
+          "#CDD0D0"
+        ],
+        "image": "https://www.pexels.com/photo/crispy-chicken-balls-served-on-plate-17780791/",
+        "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+        "category": "mobile",
+        "featured": true
     }
-]
+  ]

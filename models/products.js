@@ -22,11 +22,7 @@ const prroductSchema = new mongoose.Schema({
         default: Date.now(),
     },
     company: {
-        type: String,
-        enum: {
-            values: ["agri1", "agri2", "agri3", "agri4", "agri5"],
-            message: `{VALUE} is not supported`
-        },
+        type: String
     },
 });
 
